@@ -1,6 +1,6 @@
-# ETL Crypto Pipeline — Apache Airflow
+﻿# ETL Crypto Pipeline â€” Apache Airflow
 
-Pipeline ETL professionnel pour collecter, transformer et analyser les prix des cryptomonnaies en temps réel.
+Pipeline ETL professionnel pour collecter, transformer et analyser les prix des cryptomonnaies en temps rÃ©el.
 
 ## Badges
 
@@ -104,15 +104,15 @@ Modifiez les seuils dans dags/etl_crypto.py :
 ## Structure du projet
 
     mon-projet-etl/
-    ├── dags/
-    │   ├── etl_crypto.py       Pipeline ETL principal
-    │   └── mon_premier_dag.py  DAG de test
-    ├── dashboard/
-    │   └── app.py              Dashboard Streamlit
-    ├── docker-compose.yaml     Configuration Docker
-    ├── .env                    Variables d environnement (non pushe)
-    ├── .gitignore
-    └── README.md
+    â”œâ”€â”€ dags/
+    â”‚   â”œâ”€â”€ etl_crypto.py       Pipeline ETL principal
+    â”‚   â””â”€â”€ mon_premier_dag.py  DAG de test
+    â”œâ”€â”€ dashboard/
+    â”‚   â””â”€â”€ app.py              Dashboard Streamlit
+    â”œâ”€â”€ docker-compose.yaml     Configuration Docker
+    â”œâ”€â”€ .env                    Variables d environnement (non pushe)
+    â”œâ”€â”€ .gitignore
+    â””â”€â”€ README.md
 
 ## Securite
 
@@ -147,6 +147,6 @@ Modifiez les seuils dans dags/etl_crypto.py :
 
 ## Auteur
 
-SARAA-HUB — Projet Data Engineering 2026
+SARAA-HUB â€” Projet Data Engineering 2026
 
 N hesitez pas a mettre une etoile si ce projet vous a aide !
